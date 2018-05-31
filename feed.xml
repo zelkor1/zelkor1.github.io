@@ -5,7 +5,18 @@
     <description>Сайт самодеятельной экологической организации &quot;Зелёный коридор&quot; гимназии №1543</description>    
     <link>https://zelkor.org</link>
     <atom:link href="https://zelkor.org/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    
+      <item>
+        <title>Итоги 2017-18 учебного года</title>
+                
+        
+          <description>Итак, с&amp;nbsp;началом летних каникул пришла пора оглянуться и&amp;nbsp;подвести итоги работы нашей организации за&amp;nbsp;этот учебный год.</description>
+        
+        <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+        <link>https://zelkor.org/orgnews/2018/05/31/results/</link>
+        <guid isPermaLink="true">https://zelkor.org/orgnews/2018/05/31/results/</guid>
+      </item>
     
       <item>
         <title>Сбор макулатуры</title>
@@ -104,17 +115,6 @@
         <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
         <link>https://zelkor.org/orgnews/2017/12/13/makulatura/</link>
         <guid isPermaLink="true">https://zelkor.org/orgnews/2017/12/13/makulatura/</guid>
-      </item>
-    
-      <item>
-        <title>Агитация учеников XLIX параллели</title>
-                
-        
-          <description>26 октября Сергей Кузьмин и Илья Денисьев провели агитацию учеников XLIX параллели. Мы делаем это каждый год, чтобы заинтересовать людей, которые пополнят общество 1543.</description>
-        
-        <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-        <link>https://zelkor.org/orgnews/2017/10/27/agitation47/</link>
-        <guid isPermaLink="true">https://zelkor.org/orgnews/2017/10/27/agitation47/</guid>
       </item>
     
   </channel>
