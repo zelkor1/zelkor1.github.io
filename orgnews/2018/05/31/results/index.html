@@ -85,10 +85,9 @@
 <span class="italic">Дата:</span> 31.05.2018 <br />
 
 <span class="italic">Итак, с&nbsp;началом летних каникул пришла пора оглянуться и&nbsp;подвести итоги работы нашей организации за&nbsp;этот учебный год.</span>
-<div class="articleimg small_img"><img src="/assets/panda_1x.jpg"
-                             srcset="/assets/panda_1x.jpg 1x, /assets/panda.jpg 2x"
+<div class="articleimg small_img"><img src="/assets/panda.jpg"
                              alt="Панда"
-                             class="slb" /></div>
+                             class="slb hq" /></div>
 <ol>
   <li>В&nbsp;пункт сбора поступила <span class="green">2731</span> отработанная батарейка.</li>
   <li>Проведён сбор средств на&nbsp;экологическую благотворительность
@@ -187,9 +186,11 @@ s.setAttribute('data-timestamp', +new Date());
             integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
             crossorigin="anonymous"></script>
 
-    <script src="/js/simplebox.min.js"></script>
+    <script src="/js/simplebox.js"></script>
     <script>$(function () {
-      $(".slb").simplebox();
+      $(".slb").simplebox({
+        postfix: "_full"
+      });
     });
     var scro = function () {
       var scrolled = window.pageYOffset || document.documentElement.scrollTop;
