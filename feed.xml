@@ -5,7 +5,18 @@
     <description>Сайт самодеятельной экологической организации &quot;Зелёный коридор&quot; гимназии №1543</description>    
     <link>https://zelkor.org</link>
     <atom:link href="https://zelkor.org/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+      <item>
+        <title>Слоновая кость&amp;colon; браконьерство в Африке</title>
+                
+        
+          <description>Приходилось&amp;nbsp;ли вам покупать сувениры из&amp;nbsp;слоновой кости? В&amp;nbsp;таком случае вы&amp;nbsp;стали частью &amp;laquo;чёрного&amp;raquo; рынка, для обеспечения которого убивают до&amp;nbsp;50&amp;nbsp;000 слонов в&amp;nbsp;год... Расскажем об&amp;nbsp;этом во&amp;nbsp;&lt;span class=&quot;green&quot;&gt;Всемирный день защиты слонов&lt;/span&gt;.</description>
+        
+        <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+        <link>https://zelkor.org/j_articles/2018/09/22/elephants/</link>
+        <guid isPermaLink="true">https://zelkor.org/j_articles/2018/09/22/elephants/</guid>
+      </item>
     
       <item>
         <title>Итоги 2017-18 учебного года</title>
@@ -104,17 +115,6 @@
         <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
         <link>https://zelkor.org/j_articles/2017/12/31/arctic17/</link>
         <guid isPermaLink="true">https://zelkor.org/j_articles/2017/12/31/arctic17/</guid>
-      </item>
-    
-      <item>
-        <title>Сбор макулатуры в сентябре</title>
-                
-        
-          <description>23 сентября в Гимназии прошёл сбор макулатуры в рамках проекта «СПАСИбо, деревья». Наши сотрудники помогали провести его, и вот рассказ одного из них, Сергея Кузьмина, об этом событии.</description>
-        
-        <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
-        <link>https://zelkor.org/orgnews/2017/12/13/makulatura/</link>
-        <guid isPermaLink="true">https://zelkor.org/orgnews/2017/12/13/makulatura/</guid>
       </item>
     
   </channel>
