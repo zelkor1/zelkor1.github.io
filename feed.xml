@@ -5,7 +5,18 @@
     <description>Сайт самодеятельной экологической организации &quot;Зелёный коридор&quot; гимназии №1543</description>    
     <link>https://zelkor.org</link>
     <atom:link href="https://zelkor.org/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+      <item>
+        <title>Что делать с новогодней ёлкой?</title>
+                
+        
+          <description>Поздравляем с&amp;nbsp;Новым годом всех наших читателей! Самое время сделать подарок природе и&amp;nbsp;грамотно утилизировать новогоднюю ёлку. Ниже мы&amp;nbsp;приводим инструкцию, опубликованную на&amp;nbsp;странице проекта &amp;laquo;РазДельный Сбор&amp;raquo; в Facebook.</description>
+        
+        <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+        <link>https://zelkor.org/j_articles/2019/01/03/ny-pines/</link>
+        <guid isPermaLink="true">https://zelkor.org/j_articles/2019/01/03/ny-pines/</guid>
+      </item>
     
       <item>
         <title>Слоновая кость&amp;colon; браконьерство в Африке</title>
@@ -104,17 +115,6 @@
         <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
         <link>https://zelkor.org/j_articles/2018/01/06/whale/</link>
         <guid isPermaLink="true">https://zelkor.org/j_articles/2018/01/06/whale/</guid>
-      </item>
-    
-      <item>
-        <title>Ещё один шаг в борьбе за Арктику</title>
-                
-        
-          <description>Новогоднее настроение уже охватывает всех нас, поэтому хочется рассказать о том, чем экологам запомнится уходящий год. 30 ноября в Вашингтоне был подписан договор о запрете на коммерческий вылов рыбы и добычу полезных ископаемых в центральной части Северного Ледовитого океана.</description>
-        
-        <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>https://zelkor.org/j_articles/2017/12/31/arctic17/</link>
-        <guid isPermaLink="true">https://zelkor.org/j_articles/2017/12/31/arctic17/</guid>
       </item>
     
   </channel>
